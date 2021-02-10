@@ -1,0 +1,10 @@
+Cara pakai sistem informasi akademik sekolah ini.
+
+1. copy folder 'sirsak' ke folder c:\xampp\htdocs\
+2. buka xampp lalu start apache dan mysql
+3. buka mozilla firefox lalu masuk ke alamat http://localhost/phpmyadmin
+4. buat database baru dengan nama: sirsak
+5. import file sirsak.sql yg ada di folder 'database' ke dalam database yg tadi dibuat
+6. buka tab baru lalu buka alamat : http://localhost/sirsak
+
+http://sekedar-tutorial.blogspot.com
